@@ -151,7 +151,6 @@ Run the server.
 </html>
 ```
 ## Output:
-Include your output screenshot here
-
+![Output](https://github.com/RagulRM/cover-page-design/assets/121609342/325fac08-dac3-4356-af1b-4ac24b00a9d4)
 ## Result:
 A website to display the cover page design of a book was developed and displayed successfully.
